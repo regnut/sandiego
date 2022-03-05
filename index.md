@@ -1,4 +1,4 @@
-## Welcome to Cummings Digital
+## Hello World - Welcome to Cummings Digital
 ##  (site under construction)
 
 You can use the [editor on GitHub](https://github.com/regnut/sandiego/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
